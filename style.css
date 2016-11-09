@@ -1,0 +1,23 @@
+h1 {
+    color: #3872d1;
+    font-family: 'Coiny', cursive, serif;
+    font-size:100px;
+}
+
+li {
+    color: #3700ff;
+    font-size:50px;
+    font-family:'Permanent Marker', Sans-serif;
+}
+
+p {
+    color: #f2ff00;
+    font-size: 50px;
+    font-family: 'Bangers',serif;
+}
+
+body {
+    background-color: rgb(3, 2, 48);
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat;
+}
