@@ -21,3 +21,8 @@ body {
     background-image: url("maxresdefault.jpg");
     background-repeat: no-repeat;
 }
+.title{
+    margin:0 auto;
+    position:relative;
+    text-align:center;
+}
